@@ -10,4 +10,6 @@
     <color name="background">#191A1E</color>
     <color name="background2">#202126</color>
     <color name="text">#f9fbfa</color>
+    <color name="text2">#686b72</color>
+    <color name="blue">#4fbefc</color>
 </resources>
