@@ -17,7 +17,7 @@
         android:theme="@style/Theme.WeatherApp"
         tools:targetApi="31">
         <activity
-            android:name=".WeekActivity"
+            android:name=".ui.WeekActivity"
             android:exported="false" />
         <activity
             android:name=".ui.MainActivity"
